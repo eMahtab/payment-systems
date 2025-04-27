@@ -8,7 +8,7 @@ It's essentially a way to transfer money instantly and ensure it's received the 
 
 ## ❗❗❗ CHAPS payments can’t be reversed.
 
-
+### Most banks do charge a fee for sending CHAPS payments. Starling’s CHAPS fee is £20 per payment.
 
 ### Who uses CHAPS?
 Direct participants in CHAPS include the traditional high-street banks and a number of international and custody banks. Many more financial institutions access the system indirectly and make their payments via direct participants. This is known as agency or correspondent banking.
