@@ -1,6 +1,6 @@
 # Payment Systems
 
-# Payment Methods Overview
+### Payment Methods Overview
 
 | Payment Method  | Advantages                                          | Limitations                                        |
 |-----------------|-----------------------------------------------------|----------------------------------------------------|
