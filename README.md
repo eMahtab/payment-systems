@@ -1,2 +1,2 @@
-# payment-systems
+# Payment Systems
 All about payment systems
