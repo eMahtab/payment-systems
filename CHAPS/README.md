@@ -4,8 +4,9 @@
 
 It's essentially a way to transfer money instantly and ensure it's received the same working day. 
 
+## ❗❗❗ CHAPS works within UK only.
 
-## CHAPS payments can’t be reversed.
+## ❗❗❗ CHAPS payments can’t be reversed.
 
 
 
